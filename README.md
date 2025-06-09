@@ -22,21 +22,21 @@ Each input you enter progresses the game one step forward. Random battles, level
 | **Level Up**        | Based on XP after battles |
 | **Shop**            | Option available at rest sites |
 
-### ⚔️ Battle System
+### Battle System
 
 - Turn-based combat against random enemies
 - Choose numbered actions like Attack or Heal
 - Each fight ends with XP and gold gain
 - Sound plays at the start of each battle
 
-## 🔊 Sound Effect
+## Sound Effect
 
 - File: `EncounterSound.wav`
 - Automatically plays when a battle starts
 - Must be in the **same directory** as `MiniGame.java`
 
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 - Java JDK 8 or later
