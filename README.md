@@ -3,7 +3,7 @@
 A simple console-based RPG adventure game built in Java.  
 Each input you enter progresses the game one step forward. Random battles, level-ups, rest sites, and turn-based combat await.
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 - Type **anything** (press Enter) to move forward in the world.
 - After each input, the game may randomly:
@@ -13,7 +13,7 @@ Each input you enter progresses the game one step forward. Random battles, level
 - Type `status` at any time to view your current stats.
 - Type `exit` to quit the game.
 
-### 🎲 Random Events
+### Random Events
 
 | Event | Triggered When |
 |-------|----------------|
